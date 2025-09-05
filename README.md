@@ -6,7 +6,7 @@ name: Дмитрий Ананьев
 
 Привет! Меня зовут Дмитрий, я студент 2-го курса **МГТУ им. Н.Э. Баумана** по направлению "Информационная аналитика и политические технологии". Увлекаюсь разработкой программного обеспечения, анализом данных и машинным обучением. Стремлюсь к созданию чистого, эффективного и масштабируемого кода, используя как функциональный, так и объектно-ориентированный подход.
 
-![Snake animation](https://github.com/Demonrux/Demonrux/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Demonrux/Demonrux/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
