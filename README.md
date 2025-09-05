@@ -38,6 +38,20 @@ name: Дмитрий Ананьев
 ---
 
 
+## 📈 Активность на GitHub
+
+<!-- Статистика добавляется автоматически сервисом github-readme-stats -->
+<a href="https://github.com/DmitryYakovlev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DmitryYakovlev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryYakovlev&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</a>
+
+<!-- Глиф змеи, которая ползает по контрибуциям (опционально) -->
+![Snake animation](https://github.com/DmitryYakovlev/DmitryYakovlev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+
 ## 🎓 Образование и курсы
 
 *   **МГТУ им. Н.Э. Баумана** (2024-2028) - Направление: "Информационная аналитика и политические технологии"
