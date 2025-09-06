@@ -10,6 +10,8 @@ name: Дмитрий Ананьев
 
 ---
 
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,cpp&theme=dark&perline=8" />
+
 ## 📈 Активность на GitHub
 
 <!-- Статистика добавляется автоматически сервисом github-readme-stats -->
