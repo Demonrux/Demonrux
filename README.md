@@ -10,12 +10,8 @@ name: Дмитрий Ананьев
 
 ---
 
-<!-- 3D-статистика -->
-![3D Contribution](https://github.com/Demonrux/Demonrux/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
 ## 📈 Активность на GitHub
 
-<!-- Статистика добавляется автоматически сервисом github-readme-stats -->
 <a href="https://github.com/Demonrux">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=radical&hide_border=true&langs_count=8" />
