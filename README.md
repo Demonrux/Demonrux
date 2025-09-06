@@ -10,7 +10,8 @@ name: Дмитрий Ананьев
 
 ---
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,cpp&theme=dark&perline=8" />
+<!-- 3D-статистика -->
+![3D Contribution](https://github.com/Demonrux/Demonrux/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 📈 Активность на GitHub
 
