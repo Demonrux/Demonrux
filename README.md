@@ -59,8 +59,6 @@ name: Дмитрий Ананьев
 
 ## 📫 Контакты
 
-Я всегда открыт к интересным предложениям о сотрудничестве, стажировках или обсуждению технологий!
-
 *   **![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)** [@Cubika_Rubika](https://t.me/Cubika_Rubika)
 *   **![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)** [demonrux201@gmail.com](mailto:demonrux201@gmail.com)
 *   **![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white)** [@ra_pa_pa_pam](https://vk.com/ra_pa_pa_pam)
