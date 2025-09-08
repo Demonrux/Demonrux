@@ -17,7 +17,6 @@ name: Дмитрий Ананьев
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </a>
 
-
 ## 🛠 Технологический стек
 
 ### **💻 Языки программирования**
