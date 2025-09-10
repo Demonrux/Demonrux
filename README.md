@@ -13,8 +13,8 @@ name: Дмитрий Ананьев
 ## 📈 Активность на GitHub
 
 <a href="https://github.com/Demonrux">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&random=123" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=radical&hide_border=true&langs_count=8&random=123" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
 </a>
 
 ## 🛠 Технологический стек
