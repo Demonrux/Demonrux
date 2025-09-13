@@ -2,7 +2,9 @@
 # 👨‍💻 About me
 
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
+
 ![coding](https://raw.githubusercontent.com/Demonrux/APL_lab3/main/assets/coding.gif)
+
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ---
