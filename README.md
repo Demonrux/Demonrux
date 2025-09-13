@@ -1,5 +1,10 @@
-![welcome]
-(https://readme-typing-svg.herokuapp.com/?lines=Добро+пожаловать!;Здесь+живёт+код...&color=F75C7E&center=true)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;The+code+lives+here...&color=F75C7E&center=true">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Demonrux/APL_lab3/main/assets/coding.gif" width="400">
+</div>
 # 👨‍💻 About me
 
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
