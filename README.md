@@ -19,7 +19,6 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 <a href="https://github.com/Demonrux">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Demonrux&show_icons=true&theme=monokai&hide_border=true&count_private=true&include_all_commits=true&random=111" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=monokai&hide_border=true&langs_count=8&random=111" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Demonrux&theme=radical" />
 </a>
 
 ## 🛠 Tech stack
