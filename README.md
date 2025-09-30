@@ -6,6 +6,10 @@
   <img src="https://raw.githubusercontent.com/Demonrux/APL_lab3/main/assets/coding.gif" width="400">
 </div>
 
+
+![Tech](https://img.shields.io/badge/JavaScript-Expert-F48436)
+![Status](https://img.shields.io/badge/Open%20to%20work-F48436?style=for-the-badge)
+
 <h1 style="color:#f48436">👨‍💻 About me</h1>
 
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
