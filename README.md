@@ -27,7 +27,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<img src="https://img.shields.io/badge/🌐_Frontend_Web-development-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="400" height="50" />
+<img src="https://img.shields.io/badge/🌐Frontend_Web-development-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="400" height="50" />
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
