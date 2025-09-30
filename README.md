@@ -20,9 +20,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demonrux&layout=compact&title_color=f48436&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10" />
 </a>
 
-<img src="https://img.shields.io/badge/🛠_Tech_stack-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
-
-<img src="https://img.shields.io/badge/💻_Programming_languages-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
+<img src="https://img.shields.io/badge/💻_Programming_languages-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="400" height="40" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
