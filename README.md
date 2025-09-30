@@ -12,9 +12,9 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ## 📫 Contacts
 
-*   **![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)** [@Cubika_Rubika](https://t.me/Cubika_Rubika)
-*   **![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)** [demonrux201@gmail.com](mailto:demonrux201@gmail.com)
-*   **![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white)** [@ra_pa_pa_pam](https://vk.com/ra_pa_pa_pam)
+[![Telegram](https://img.shields.io/badge/Telegram-@Cubika_Rubika-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cubika_Rubika)
+[![Gmail](https://img.shields.io/badge/Email-demonrux201@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demonrux201@gmail.com)
+[![VK](https://img.shields.io/badge/VK-@ra_pa_pa_pam-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ra_pa_pa_pam)
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
