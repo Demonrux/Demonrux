@@ -20,25 +20,30 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demonrux&layout=compact&title_color=f48436&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10" />
 </a>
 
+<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
 ## 🛠 Tech stack
 
+<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
 ### **💻 Programming languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
 ### **🌐 Frontend & Web-development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
+<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
 ### **🧪 Backend-development**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
+<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
 ### **📊 Data Analysis & Machine Learning**
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -46,19 +51,21 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
 ### **🗄️ Databases & DWH**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Greenplum](https://img.shields.io/badge/Greenplum-00A98F?style=for-the-badge&logo=greenplum&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
+<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
 ### **⚙️ Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-29C4BF?style=for-the-badge&logo=doxygen&logoColor=white)
 
-### **📊 Office Suites & Collaboration**
+<img src="https://img.shields.io/badge/📊_Office_Suites_&_Collaboration*-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
