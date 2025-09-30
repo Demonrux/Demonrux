@@ -13,7 +13,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ## 📫 Contacts
 
 <p align="center">
-  <a href="https://t.me/Cubika_Rubika" style="margin: 0 10px;">
+  <a href="https://t.me/Cubika_Rubika" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:demonrux201@gmail.com" style="margin: 0 10px;">
