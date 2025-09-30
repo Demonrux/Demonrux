@@ -29,36 +29,36 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
-### **🌐 Frontend & Web-development**
+<img src="https://img.shields.io/badge/🌐_Frontend_&_Web-development-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
-### **🧪 Backend-development**
+<img src="https://img.shields.io/badge/🧪_Backend-development-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
-### **📊 Data Analysis & Machine Learning**
+<img src="https://img.shields.io/badge/📊_Data_Analysis_&_Machine_Learning-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
+
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
-### **🗄️ Databases & DWH**
+<img src="https://img.shields.io/badge/🗄️_Databases_&_DWH-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Greenplum](https://img.shields.io/badge/Greenplum-00A98F?style=for-the-badge&logo=greenplum&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
-### **⚙️ Development Tools**
+<img src="https://img.shields.io/badge/⚙️_Development_Tools-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
