@@ -12,9 +12,17 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ## 📫 Contacts
 
-* [![Telegram](https://img.shields.io/badge/Telegram-@Cubika_Rubika-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cubika_Rubika)
-* [![Gmail](https://img.shields.io/badge/Email-demonrux201@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demonrux201@gmail.com)
-* [![VK](https://img.shields.io/badge/VK-@ra_pa_pa_pam-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ra_pa_pa_pam)
+<p align="center">
+  <a href="https://t.me/Cubika_Rubika" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:demonrux201@gmail.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vk.com/ra_pa_pa_pam" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/👥_VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
+  </a>
+</p>
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
