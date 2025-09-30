@@ -10,6 +10,12 @@
 
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
 
+## 📫 Contacts
+
+*   **![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)** [@Cubika_Rubika](https://t.me/Cubika_Rubika)
+*   **![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)** [demonrux201@gmail.com](mailto:demonrux201@gmail.com)
+*   **![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white)** [@ra_pa_pa_pam](https://vk.com/ra_pa_pa_pam)
+
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ---
@@ -76,10 +82,3 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 *  **Bauman Moscow State Technical University** (2024-2028) - Direction: "Information Analytics and Political Technologies"
 *  **Courses:** Django, OpenCV, DWH & SQL, Data Analytics
 
----
-
-## 📫 Contacts
-
-*   **![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)** [@Cubika_Rubika](https://t.me/Cubika_Rubika)
-*   **![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)** [demonrux201@gmail.com](mailto:demonrux201@gmail.com)
-*   **![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white)** [@ra_pa_pa_pam](https://vk.com/ra_pa_pa_pam)
