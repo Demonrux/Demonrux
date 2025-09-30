@@ -13,7 +13,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ---
-
+<img src="https://img.shields.io/badge/📈_Activity_on_GitHub-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="200" height="60" />
 ## 📈 Activity on GitHub
 <a href="https://github.com/Demonrux">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Demonrux&show_icons=true&title_color=f48436&icon_color=f48436&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" />
