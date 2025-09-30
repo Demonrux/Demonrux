@@ -34,7 +34,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-<img src="https://img.shields.io/badge/🧪_Backend-development-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
+<img src="https://img.shields.io/badge/🧪_Backend_development-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -62,7 +62,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-29C4BF?style=for-the-badge&logo=doxygen&logoColor=white)
 
-<img src="https://img.shields.io/badge/📊_Office_Suites_Collaboration*-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="300" height="60" />
+<img src="https://img.shields.io/badge/📊_Office_Suites_Collaboration-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="500" height="50" />
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
