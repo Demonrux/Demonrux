@@ -35,7 +35,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 </a>
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Demonrux&theme=onedark&title_color=f48436)
+<img src="https://github-profile-trophy.vercel.app/?username=Demonrux&theme=onedark&title_color=f48436" style="transform: scale(1.2);" />
 
 ### 💻 Programming languages
 
