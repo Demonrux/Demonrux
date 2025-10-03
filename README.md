@@ -55,6 +55,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 </p>
 
 ### 📊 Data Analysis & MachineLearning
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,opencv,tensorflow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -70,7 +71,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### ⚙️Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vscode, .NET" />
   <img src="https://img.shields.io/badge/Doxygen-29C4BF?style=for-the-badge&logo=doxygen&logoColor=white" />
 </p>
 
