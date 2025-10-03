@@ -50,25 +50,24 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
   <img src="https://img.shields.io/badge/Doxygen-29C4BF?style=for-the-badge&logo=doxygen&logoColor=white" />
 </p>
 
-### 🌐Frontend Web-development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,qt" />
-</p>
-
-### 🧪 Backend development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,django" />
-</p>
-
 ### 📊 Data Analysis & MachineLearning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  
+  <img src="https://skillicons.dev/icons?i=jupyter, tensorflow" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+</p>
+
+### 🌐Frontend Web-development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,selenium,js,qt" />
+</p>
+
+### 🧪 Backend development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,django" />
 </p>
 
 ### 🗄️Databases & DWH
