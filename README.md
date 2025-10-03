@@ -44,6 +44,12 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs" />
 </p>
 
+### ⚙️Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vscode,net,cmake,pycharm" />
+  <img src="https://img.shields.io/badge/Doxygen-29C4BF?style=for-the-badge&logo=doxygen&logoColor=white" />
+</p>
+
 ### 🌐Frontend Web-development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,qt" />
@@ -70,12 +76,6 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
   <img src="https://skillicons.dev/icons?i=postgresql" />
   <img src="https://img.shields.io/badge/Greenplum-00A98F?style=for-the-badge&logo=greenplum&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
-</p>
-
-### ⚙️Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vscode,net,cmake" />
-  <img src="https://img.shields.io/badge/Doxygen-29C4BF?style=for-the-badge&logo=doxygen&logoColor=white" />
 </p>
 
 ### 📊 Office Suites & Collaboration
