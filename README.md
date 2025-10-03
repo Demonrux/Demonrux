@@ -47,16 +47,16 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ### ⚙️Development Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,gitlab,docker,visualstudio,net,cmake,pycharm" />
-  <img src="https://img.shields.io/badge/Doxygen-29C4BF?flat-squaree&logo=doxygen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Doxygen-29C4BF?style=for-the-badge&logo=doxygen&logoColor=white" />
 </p>
 
 ### 📊 Data Analysis & MachineLearning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 </p>
