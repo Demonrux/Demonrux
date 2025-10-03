@@ -71,7 +71,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### ⚙️Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vscode,.net" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,vscode,net" />
   <img src="https://img.shields.io/badge/Doxygen-29C4BF?style=for-the-badge&logo=doxygen&logoColor=white" />
 </p>
 
