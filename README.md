@@ -6,9 +6,16 @@
   <img src="https://raw.githubusercontent.com/Demonrux/APL_lab3/main/assets/coding.gif" width="400">
 </div>
 
-<img src="https://img.shields.io/badge/👨‍💻_About_Me-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="200" height="50" />
+## 👨‍💻 Обо мне
 
-Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
+<div align="center">
+
+Привет! Меня зовут Дмитрий, я студент 2-го курса **МГТУ им. Баумана** по направлению "Информационная аналитика и политические технологии". Интересуюсь разработкой программного обеспечения, анализом данных и машинным обучением.
+
+<!-- Элемент для обратного отсчета до конца учебы или других целей -->
+<img src="https://img.shields.io/badge/До_окончания_университета-2028-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+
+</div>
 
 ## 📫 Contacts
 
