@@ -28,10 +28,19 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### 📈 Activity on GitHub
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&text_color=cdd6f4&langs_count=6" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; align-items: stretch;">
+
+<div style="width: 385px; height: 160px; overflow: hidden; border-radius: 8px; background: #1e1e2e; position: relative;">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" 
+     style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0;" />
+</div>
+
+<div style="width: 385px; height: 160px; overflow: hidden; border-radius: 8px; background: #1e1e2e; position: relative;">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&text_color=cdd6f4&langs_count=6" 
+     style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0;" />
+</div>
+
+</div>
 
 ## 🏆 GitHub Trophies
 <p align="center">
