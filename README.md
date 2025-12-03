@@ -11,13 +11,7 @@
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
 
 ## 📫 Contacts
-
-<p align="center">
-  <!-- Основная статистика -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonrux&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=github_dark&exclude={exclude}" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Demonrux&show_icons=true&rank_icon=percentile&theme=dark" />
 
 <p align="center">
   <a href="https://t.me/Cubika_Rubika" style="margin: 0 10px;">
