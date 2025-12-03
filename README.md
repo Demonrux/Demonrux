@@ -36,7 +36,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
   </div>
   
   <div style="width: 300px; height: 150px; background: #1e1e2e; border-radius: 6px; overflow: hidden; position: relative;">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?  username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&text_color=cdd6f4&langs_count=10"
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&text_color=cdd6f4&langs_count=6&custom_title=Top%20Languages:C%2B%2B|Python|C%23|C" />
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
   </div>
   
