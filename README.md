@@ -28,17 +28,10 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### 📈 Activity on GitHub
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; align-items: center;">
-  
-  <!-- Первая карточка -->
-  <img width="400" height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" 
-       style="flex: 1; min-width: 380px; max-width: 400px;" />
-  
-  <!-- Вторая карточка -->
-  <img width="400" height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&text_color=cdd6f4&langs_count=6" 
-       style="flex: 1; min-width: 380px; max-width: 400px;" />
-       
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&text_color=cdd6f4&langs_count=6" />
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
