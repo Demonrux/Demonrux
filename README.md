@@ -12,10 +12,6 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ## 📫 Contacts
 
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux)
-
-
 <p align="center">
   <a href="https://t.me/Cubika_Rubika" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -34,21 +30,21 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ### 📈 Activity on GitHub
 
 <p align="center">
-  <!-- Профиль -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonrux&theme=slateorange" />
 </p>
 
-<p align="center">
-  <!-- Кастомные цвета для совпадения с slateorange -->
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=2d3748&title_color=f48436&icon_color=f48436&text_color=ffffff&border_color=2d3748" />
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <!-- Flexbox для идеального выравнивания -->
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" />
   
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange&exclude=html,css,tex" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange&exclude=html,css,tex,scss" />
 </p>
 
 <p align="center">
-  <!-- Дополнительные карточки -->
+  <!-- Три в ряд -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=slateorange" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=2d3748&title_color=f48436&text_color=ffffff&border_color=2d3748" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Demonrux&theme=slateorange" />
+  <img src="https://streak-stats.demolab.com/?user=Demonrux&theme=slateorange&hide_border=true&background=1E1E2E&fire=F48436&ring=F48436&currStreakLabel=F48436" />
 </p>
   
 
