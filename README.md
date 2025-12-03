@@ -29,15 +29,12 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ---
 ### 📈 Activity on GitHub
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-  
-  <!-- Левая карточка -->
-  <img height="200" style="flex: 1; max-width: 495px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" />
-  
-  <!-- Правая карточка -->
-  <img height="200" style="flex: 1; max-width: 495px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&text_color=cdd6f4&langs_count=8" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4&line_height=24" 
+       style="height:195px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&text_color=cdd6f4&langs_count=8&line_height=24" 
+       style="height:195px;" />
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
