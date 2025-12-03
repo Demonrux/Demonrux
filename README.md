@@ -29,14 +29,8 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ### 📈 Activity on GitHub
 
 <div align="center">
-  
-  <!-- Полный набор в одном стиле -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonrux&theme=slateorange" />
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=slateorange" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Demonrux&theme=slateorange" />
-  
 </div>
 
 ## 🏆 GitHub Trophies
