@@ -11,18 +11,6 @@
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
 
 ## 📫 Contacts
-<p align="center">
-  <!-- Контакты -->
-  <a href="https://t.me/Cubika_Rubika">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:demonrux201@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://vk.com/ra_pa_pa_pam">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <!-- Основная статистика -->
