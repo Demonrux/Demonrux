@@ -30,10 +30,18 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ### 📈 Activity on GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonrux&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=radical" />
-</p>
+  
+  <!-- Первая строка -->
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonrux&theme=radical" />
+  
+  <!-- Вторая строка -->
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=custom&bg_color=0d1117&border_color=f48436&title_color=f48436&text_color=ffffff&icon_color=f48436" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=custom&bg_color=0d1117&border_color=f48436&title_color=f48436&text_color=ffffff&icon_color=f48436" />
+  
+  <!-- Третья строка -->
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Demonrux&theme=custom&bg_color=0d1117&border_color=f48436&title_color=f48436&text_color=ffffff&icon_color=f48436" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Demonrux&theme=custom&bg_color=0d1117&border_color=f48436&title_color=f48436&text_color=ffffff&icon_color=f48436" />
+  
 
 ## 🏆 GitHub Trophies
 <p align="center">
