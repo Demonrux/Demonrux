@@ -34,9 +34,21 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ### 📈 Activity on GitHub
 
 <p align="center">
+  <!-- Профиль -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonrux&theme=slateorange" />
+</p>
+
+<p align="center">
+  <!-- Кастомные цвета для совпадения с slateorange -->
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=2d3748&title_color=f48436&icon_color=f48436&text_color=ffffff&border_color=2d3748" />
+  
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange&exclude=html,css,tex" />
+</p>
+
+<p align="center">
+  <!-- Дополнительные карточки -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=slateorange" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=2d3748&title_color=f48436&text_color=ffffff&border_color=2d3748" />
 </p>
   
 
