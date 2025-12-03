@@ -32,12 +32,12 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 <div style="width: 240px; height: 120px; overflow: hidden; border-radius: 6px; background: #1e1e2e; position: relative;">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" 
-     style="width: 40%; height: 70%; object-fit: cover; position: absolute; top: 0; left: 0;" />
+     style="width: 40%; height: 50%; object-fit: cover; position: absolute; top: 0; left: 0;" />
 </div>
 
 <div style="width: 240px; height: 120px; overflow: hidden; border-radius: 6px; background: #1e1e2e; position: relative;">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&text_color=cdd6f4&langs_count=6" 
-     style="width: 40%; height: 70%; object-fit: cover; position: absolute; top: 0; left: 0;" />
+     style="width: 40%; height: 50%; object-fit: cover; position: absolute; top: 0; left: 0;" />
 </div>
 
 </div>
