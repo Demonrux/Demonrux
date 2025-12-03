@@ -28,18 +28,12 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### 📈 Activity on GitHub
 
-<div align="center" style="display: flex; justify-content: center; gap: 8px; align-items: stretch;">
-
-<div style="width: 240px; height: 120px; overflow: hidden; border-radius: 6px; background: #1e1e2e; position: relative;">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" 
-     style="width: 75%; height: 50%; object-fit: cover; position: absolute; top: 0; left: 0;" />
-</div>
-
-<div style="width: 240px; height: 120px; overflow: hidden; border-radius: 6px; background: #1e1e2e; position: relative;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange" 
-     style="width: 100%; height: 100%; object-fit: cover;" />
-</div>
-
+<div align="center">
+  
+  <!-- Обе карточки в одном современном стиле -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=slateorange" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange" />
+  
 </div>
 
 ## 🏆 GitHub Trophies
