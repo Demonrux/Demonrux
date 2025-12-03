@@ -30,13 +30,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ### 📈 Activity on GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonrux&theme=slateorange" />
-</p>
-
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <!-- Flexbox для идеального выравнивания -->
   <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" />
-  
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange&exclude=html,css,tex,scss" />
 </p>
   
