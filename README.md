@@ -16,8 +16,6 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 <!-- Или так -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=dark&langs_count=10&rank_icon=github" />
 
-<img src="https://github-stats-alpha.vercel.app/api?username=Demonrux&cc=000&tc=fff&ic=fff&bc=000" />
-
 <p align="center">
   <a href="https://t.me/Cubika_Rubika" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
