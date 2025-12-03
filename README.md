@@ -11,7 +11,25 @@
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
 
 ## 📫 Contacts
-<img src="https://github-readme-stats.vercel.app/api?username=Demonrux&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical" />
+<p align="center">
+  <!-- Контакты -->
+  <a href="https://t.me/Cubika_Rubika">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:demonrux201@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vk.com/ra_pa_pa_pam">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Основная статистика -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonrux&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=github_dark&exclude={exclude}" />
+</p>
 
 <p align="center">
   <a href="https://t.me/Cubika_Rubika" style="margin: 0 10px;">
