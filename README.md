@@ -1,16 +1,3 @@
-## 📊 GitHub Stats (с оценками)
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" />
-</div>
-
-## 💻 Top Languages 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Demonrux/APL_lab3/main/assets/coding.gif" width="400">
-</div>
-
 <img src="https://img.shields.io/badge/👨‍💻_About_Me-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="200" height="50" />
 
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
