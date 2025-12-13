@@ -1,18 +1,12 @@
+## 📊 GitHub Stats (с оценками)
 <div align="center">
-  
-  <!-- Полный набор в одном стиле -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonrux&theme=slateorange" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=slateorange" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Demonrux&show_icons=true&theme=slateorange&hide_border=true&bg_color=1e1e2e&title_color=f48436&icon_color=f48436&text_color=cdd6f4" />
+</div>
+
+## 💻 Top Languages 
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Demonrux&theme=slateorange" />
-  
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;Code+lives+here...&color=F48436&center=true" alt="Typing Animation" />
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Demonrux/APL_lab3/main/assets/coding.gif" width="400">
 </div>
