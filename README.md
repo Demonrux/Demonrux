@@ -22,7 +22,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=slateorange" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&langs_count=5" />
 </div>
 
 ## 🏆 GitHub Trophies
