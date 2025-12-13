@@ -1,4 +1,15 @@
 <div align="center">
+  
+  <!-- Полный набор в одном стиле -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonrux&theme=slateorange" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=slateorange" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonrux&theme=slateorange" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Demonrux&theme=slateorange" />
+  
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;Code+lives+here...&color=F48436&center=true" alt="Typing Animation" />
 </div>
 
