@@ -20,8 +20,11 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### 📈 Activity on GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Demonrux&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=dark)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Demonrux&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Demonrux&theme=dark"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Demonrux&theme=onedark&row=2&column=4"/>
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=slateorange" />
