@@ -19,8 +19,10 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ### 📈 Activity on GitHub
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Demonrux&show_icons=true&theme=orange&bg_color=0d1117&title_color=ff9900&icon_color=ff9900&text_color=ffffff&border_color=ff9900" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demonrux&layout=compact&theme=orange&bg_color=0d1117&title_color=ff9900&text_color=ffffff&border_color=ff9900" />
+</div>
 
 ## 🏆 GitHub Trophies
 <p align="center">
