@@ -21,10 +21,15 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ### 📈 Activity on GitHub
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Demonrux/Demonrux/main/generated/overview.svg" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/Demonrux/Demonrux/main/generated/languages.svg" alt="Languages" />
-</div>
+### 🎯 Basic Stats (самый стабильный)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical"/>
+
+### 🔥 Streak Stats
+<img src="https://streak-stats.demolab.com/?user=Demonrux&theme=dark" alt="GitHub Streak" />
+
+### 🏆 Трофеи
+<img src="https://github-profile-trophy.vercel.app/?username=Demonrux&margin-w=15&margin-h=15&theme=gruvbox" alt="GitHub Trophies" />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonrux&theme=slateorange" />
