@@ -24,7 +24,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  [![committers.top badge](https://user-badge.committers.top/russia/Demonrux.svg)](https://user-badge.committers.top/russia/Demonrux)
+  [committers.top badge](https://user-badge.committers.top/russia/Demonrux.svg)(https://user-badge.committers.top/russia/Demonrux)
   <img src="https://github-profile-trophy.vercel.app/?username=Demonrux&theme=onedark&title_color=f48436&margin-w=25&margin-h=15" width="800" />
 </p>
 
