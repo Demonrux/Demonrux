@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/👨‍💻_About_Me-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="200" height="50" />
+<img src="https://img.shields.io/badge/👨‍💻_About_Me-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="160" height="40" />
 
 [![committers.top badge](https://user-badge.committers.top/russia/Demonrux.svg)](https://user-badge.committers.top/russia/Demonrux)
 
