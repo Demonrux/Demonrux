@@ -4,6 +4,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/world/Demonrux.svg)](https://user-badge.committers.top/world/Demonrux)
 
+[![committers.top badge](https://user-badge.committers.top/worldwide/Demonrux.svg)](https://user-badge.committers.top/worldwide/Demonrux)
+
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
 
 ## 📫 Contacts
