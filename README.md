@@ -16,16 +16,6 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical"/>
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://metrics.lecoq.io/Demonrux?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=6" width="800" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Demonrux&theme=onedark&title_color=f48436&margin-w=25&margin-h=15" width="800" />
-</p>
-
 ### 💻 Programming languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs" />
