@@ -8,7 +8,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 <p align="center">
   <a href="mailto:demonrux201@gmail.com" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### ⚙️Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,visualstudio,net,cmake,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,visualstudio,net,cmake,pycharm" />
   <img src="https://img.shields.io/badge/Doxygen-29C4BF?style=for-the-badge&logo=doxygen&logoColor=white" />
 </p>
 
@@ -47,7 +47,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### 🌐Frontend Web-development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,postman,selenium,js,qt" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,postman,selenium,js,qt" />
 </p>
 
 ### 🧪 Backend development
