@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/badge/👨‍💻_About_Me-F48436?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="160" height="40" />
-
 [![committers.top badge](https://user-badge.committers.top/russia/Demonrux.svg)](https://user-badge.committers.top/russia/Demonrux)
 
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
@@ -17,6 +15,11 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ### 📈 Activity on GitHub
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical"/>
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://metrics.lecoq.io/Demonrux?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=6" width="800" />
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
