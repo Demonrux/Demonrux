@@ -47,7 +47,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### 🌐Frontend Web-development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,selenium,js,qt" />
+  <img src="https://skillicons.dev/icons?i=html,css,postman,selenium,js,qt" />
 </p>
 
 ### 🧪 Backend development
