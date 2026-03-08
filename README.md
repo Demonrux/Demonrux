@@ -57,7 +57,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### 🗄️Databases & DWH
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
   <img src="https://img.shields.io/badge/Greenplum-00A98F?style=for-the-badge&logo=greenplum&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
 </p>
