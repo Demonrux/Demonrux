@@ -1,5 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/russia/Demonrux.svg)](https://user-badge.committers.top/russia/Demonrux)
-
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
 
 ## 📫 Contacts
@@ -19,6 +17,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ### 📈 GitHub Stats
+[![committers.top badge](https://user-badge.committers.top/russia/Demonrux.svg)](https://user-badge.committers.top/russia/Demonrux)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
