@@ -12,9 +12,12 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-### 📈 Activity on GitHub
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical"/>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical" />
+</p>
 
 ### 💻 Programming languages
 <p align="left">
