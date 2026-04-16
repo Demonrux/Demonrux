@@ -7,6 +7,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 <p align="center">
   <a href="mailto:demonrux201@gmail.com" style="margin: 0 10px;">
      <img src="https://skillicons.dev/icons?i=gmail" />
+      <a href="https://t.me/skebob_gg"><img src="https://skillicons.dev/icons?i=telegram" /></a>
   </a>
 </p>
 
