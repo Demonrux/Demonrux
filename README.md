@@ -23,7 +23,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### ⚙️Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,visualstudio,net,cmake,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,visualstudio,vscode,net,cmake,pycharm" />
 </p>
 
 ### 📊 Data Analysis & MachineLearning
