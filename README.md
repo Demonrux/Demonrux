@@ -4,13 +4,17 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ## 📫 Contacts
 
-<a href="mailto:demonrux201@gmail.com" style="margin: 0 10px;">
-   <img src="https://skillicons.dev/icons?i=gmail" />
-    <a href="https://t.me/skebob_gg">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40">
-    </a>
-</a>
-
+<p align="center">
+  <a href="mailto:demonrux201@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://t.me/skebob_gg">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://vk.com/ra_pa_pa_pam">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+  </a>
+</p>
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ### 📈 GitHub Stats
