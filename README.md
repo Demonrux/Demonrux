@@ -25,6 +25,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
   <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical&count_private=true" />
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Demonrux&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </p>
 
 ## 💻 Tech Stack
