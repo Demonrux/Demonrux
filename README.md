@@ -15,6 +15,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
 </p>
+
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ### 📈 GitHub Stats
