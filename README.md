@@ -19,35 +19,29 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical" />
 </p>
 
-### 💻 Programming languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs" />
+## 💻 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js" />
 </p>
 
-### ⚙️Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,visualstudio,vscode,net,cmake,pycharm" />
+### Backend & API
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,net,postgresql,sqlite" />
 </p>
 
-### 📊 Data Analysis & MachineLearning
-<p align="left">
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+### ML & Data
+<p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
 </p>
 
-### 🌐Frontend Web-development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,postman,selenium,qt" />
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,visualstudio,vscode" />
 </p>
-
-### 🧪 Backend development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,django" />
-</p>
-
-### 🗄️Databases & DWH
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-</p>
-
----
-
