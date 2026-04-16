@@ -18,7 +18,9 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### 📈 GitHub Stats
 
-<img src="https://user-badge.committers.top/russia/Demonrux.svg" alt="Рейтинг коммиттеров России" />
+<p align="center">
+    <img src="https://user-badge.committers.top/russia/Demonrux.svg" alt="Рейтинг коммиттеров России" />
+</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical&count_private=true" /> 
