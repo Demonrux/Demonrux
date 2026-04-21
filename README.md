@@ -35,12 +35,12 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### Backend & API
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,net,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,net,postgresql,sqliteqt" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,qt" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
 ### ML & Data
