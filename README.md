@@ -40,7 +40,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,qt" />
 </p>
 
 ### ML & Data
