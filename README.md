@@ -4,7 +4,7 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 <p align="center">
   <a href="mailto:demonrux201@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&cache=no" alt="Gmail" />
   </a>
   <a href="https://t.me/skebob_gg">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
