@@ -1,7 +1,9 @@
 Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
 
 ## 📫 Contacts
-
+<a href="mailto:demonrux201@gmail.com">
+  <img src="https://badgen.net/badge/Gmail/D14836?icon=gmail&label" alt="Gmail" />
+</a>
 <p align="center">
   <a href="mailto:demonrux201@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&cache=no" alt="Gmail" />
