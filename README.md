@@ -49,5 +49,5 @@ Hello! My name is Dmitry, I am a 2nd year student at **Bauman Moscow State Techn
 
 ### Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,visualstudio,vscode,unity" />
 </p>
