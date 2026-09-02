@@ -1,6 +1,6 @@
 Hello! My name is Dmitry, I am a 3nd year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
 
-## 📫 Contacts
+## Contacts
 
 <p align="center">
   <a href="mailto:demonrux201@gmail.com">
@@ -16,7 +16,7 @@ Hello! My name is Dmitry, I am a 3nd year student at **Bauman Moscow State Techn
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-### 📈 GitHub Stats
+## GitHub Stats
 <p align="center">
     <img src="https://user-badge.committers.top/russia/Demonrux.svg" alt="Рейтинг коммиттеров России" />
 </p>
@@ -25,7 +25,7 @@ Hello! My name is Dmitry, I am a 3nd year student at **Bauman Moscow State Techn
   <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical&count_private=true" /> 
 </p>
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
