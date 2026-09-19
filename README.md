@@ -2,6 +2,8 @@ Hello! My name is Dmitry, I am a 3rd-year student at **Bauman Moscow State Techn
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
+<img width="100%" height="304" alt="image" src="https://github.com/user-attachments/assets/7e267df5-705b-4ee0-bc20-f693ff7b85e4" />
+
 ## Stats
 <p align="center">
     <img src="https://user-badge.committers.top/russia/Demonrux.svg" alt="Рейтинг коммиттеров России" />
