@@ -21,7 +21,7 @@ Hello! My name is Dmitry, I am a 3nd year student at **Bauman Moscow State Techn
 
 ### Backend & API
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,net,postgresql,sqlite,qt" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,net,postgresql,sqlite" />
 </p>
 
 ### Frontend
@@ -34,7 +34,14 @@ Hello! My name is Dmitry, I am a 3nd year student at **Bauman Moscow State Techn
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
 </p>
 
+### Desktop & GameDev
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,qt" />
+</p>
+
+qt,unity
+
 ### Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,visualstudio,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,visualstudio,vscode" />
 </p>
