@@ -13,39 +13,6 @@ Hello! My name is Dmitry, I am a 3nd year student at **Bauman Moscow State Techn
 </p>
 
 ## Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js" />
-</p>
-
-### Backend & API
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,net,postgresql,sqlite" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
-
-### ML & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-</p>
-
-### Desktop & GameDev
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,qt" />
-</p>
-
-qt,unity
-
-### Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,visualstudio,vscode" />
-</p>
-
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
