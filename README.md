@@ -1,9 +1,8 @@
 Hello! My name is Dmitry, I am a 3rd-year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" />
+  <img src="./assets/banner.gif" width="100%" heigth="200px" />
 </p>
 
 ## Stats
