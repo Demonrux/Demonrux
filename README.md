@@ -3,7 +3,7 @@ Hello! My name is Dmitry, I am a 3rd-year student at **Bauman Moscow State Techn
 
 <p align="center">
   <kbd>
-  <img src="./assets/banner2.gif" width="100%" height="240px" />
+    <img src="./assets/banner2.gif" width="100%" height="240px" />
   </kbd>
 </p>
 
