@@ -1,4 +1,8 @@
-Hello! My name is Dmitry, I am a 3rd-year student at **Bauman Moscow State Technical University** majoring in "Information Analytics and Political Technologies". I am interested in software development, data analysis and machine learning.
+### Hello! My name is Dmitry
+
+I am a **3rd-year student** at **Bauman Moscow State Technical University** majoring in *"Information Analytics and Political Technologies"*.
+
+<sub>Interested in software development, data analysis and machine learning.</sub>
 
 
 <p align="center">
