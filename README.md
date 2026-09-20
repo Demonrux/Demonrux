@@ -15,7 +15,7 @@ I am a **3rd-year student** at **Bauman Moscow State Technical University** majo
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=32" />
   <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=8&theme=radical&count_private=true" /> 
 </p>
 
