@@ -1,7 +1,14 @@
 ### Hello! My name is Dmitry
 
 I am a **3rd-year student** at **Bauman Moscow State Technical University** majoring in *"Information Analytics and Political Technologies"*.
-<sub>Interested in software development, data analysis and machine learning.</sub>
+Interested in software development, data analysis and machine learning.
+
+## Мое портфолио
+
+[![Portfolio](https://img.shields.io/badge/Посмотреть_портфолио-0CBFA1?style=for-the-badge&logo=link&logoColor=white)](https://demonrux.github.io/portfolio)
+
+Здесь вы найдёте мои лучшие проекты в области **Full-stack**, **ML** и **GameDev**, 
+а также подробную информацию об опыте и навыках.
 
 <p align="center">
   <kbd>
