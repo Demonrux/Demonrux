@@ -4,7 +4,9 @@ I am a **3rd-year student** at **Bauman Moscow State Technical University** majo
 Interested in software development, data analysis and machine learning.
 
 <p align="center">
-[![Portfolio](https://img.shields.io/badge/Посмотреть_портфолио-0CBFA1?style=for-the-badge&logo=link&logoColor=white)](https://demonrux.github.io/portfolio)
+  
+![Portfolio](https://img.shields.io/badge/Посмотреть_портфолио-0CBFA1?style=for-the-badge&logo=link&logoColor=white)](https://demonrux.github.io/portfolio)
+
 </p>
 
 <p align="center">
