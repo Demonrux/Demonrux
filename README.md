@@ -15,6 +15,10 @@ Interested in software development, data analysis and machine learning.
   </kbd>
 </p>
 
+<a href="https://committers.top">
+  <img src="https://committers.top" alt="committers.top leaderboard" />
+</a>
+
 ## GitHub Stats
 <p align="center">
     <img src="https://user-badge.committers.top/russia/Demonrux.svg" alt="Рейтинг коммиттеров России" />
