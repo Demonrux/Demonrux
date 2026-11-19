@@ -25,8 +25,6 @@ Interested in software development, data analysis and machine learning.
   <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=10&theme=radical&count_private=truev=2" /> 
 </p>
 
-## Tech Stack
-
 **Languages:**
 ![C#](https://shields.io)
 ![Python](https://shields.io)
