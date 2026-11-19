@@ -19,7 +19,7 @@ Interested in software development, data analysis and machine learning.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,cpp,dotnet,fastapi,postgres,react,docker,git,linux&perline=10" alt="C#, Python, .NET, FastAPI, PostgreSQL, React, Docker, Git, Linux" />
+    <img src="https://skillicons.dev/icons?i=cs,python,dotnet,fastapi,postgres,react,docker,git,linux&perline=10" alt="C#, Python, .NET, FastAPI, PostgreSQL, React, Docker, Git, Linux" />
   </a>
 </p>
 
