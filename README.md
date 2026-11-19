@@ -4,9 +4,9 @@ I am a **3rd-year student** at **Bauman Moscow State Technical University** majo
 Interested in software development, data analysis and machine learning.
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,cpp,dotnet,fastapi,postgres,react,docker,git,linux&perline=10" alt="My Tech Stack" />
-  </a>
+  <kbd>
+    <img src="./assets/banner2.gif" width="100%" height="240px" />
+  </kbd>
 </p>
 
 <p align="center">
@@ -15,18 +15,21 @@ Interested in software development, data analysis and machine learning.
   </a>
 </p>
 
+## Tech Stack
+
 <p align="center">
-  <kbd>
-    <img src="./assets/banner2.gif" width="100%" height="240px" />
-  </kbd>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,python,cpp,dotnet,fastapi,postgres,react,docker,git,linux&perline=10" alt="C#, Python, .NET, FastAPI, PostgreSQL, React, Docker, Git, Linux" />
+  </a>
 </p>
 
 ## GitHub Stats
+
 <p align="center">
-    <img src="https://user-badge.committers.top/russia/Demonrux.svg" />
+  <img src="https://user-badge.committers.top/russia/Demonrux.svg" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=6v=2" />
-  <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=10&theme=radical&count_private=truev=2" /> 
+  <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api?username=Demonrux&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=10&theme=radical&count_private=true" />
 </p>
