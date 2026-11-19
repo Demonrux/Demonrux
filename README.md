@@ -26,10 +26,29 @@ Interested in software development, data analysis and machine learning.
 </p>
 
 ## Tech Stack
-**Languages:** ![C#](https://shields.io) ![Python](https://shields.io) ![C++](https://shields.io)
 
-**Backend:** ![.NET](https://shields.io) ![FastAPI](https://shields.io) ![PostgreSQL](https://shields.io)
+<p>
+  <b>Languages:</b>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-**Frontend:** ![React](https://shields.io)
+<p>
+  <b>Backend:</b>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-**Tools:** ![Docker](https://shields.io) ![Git](https://shields.io) ![Linux](https://shields.io)
+<p>
+  <b>Frontend:</b>
+  <img src="https://shields.io" />
+</p>
+
+<p>
+  <b>Tools:</b>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
