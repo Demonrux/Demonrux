@@ -26,10 +26,15 @@ Interested in software development, data analysis and machine learning.
 </p>
 
 ## Tech Stack
-**Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Backend:** ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+**Languages**
+- <img src="https://simpleicons.org" width="16" /> C# &nbsp;&nbsp; <img src="https://simpleicons.org" width="16" /> Python &nbsp;&nbsp; <img src="https://simpleicons.org" width="16" /> C++
 
-**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+**Backend & Databases**
+- <img src="https://simpleicons.org" width="16" /> .NET &nbsp;&nbsp; <img src="https://simpleicons.org" width="16" /> FastAPI &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/postgresql/0CBFA1" width="16" /> PostgreSQL
 
-**Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Frontend**
+- <img src="https://simpleicons.org" width="16" /> React
+
+**DevOps & Tools**
+- <img src="https://cdn.simpleicons.org/docker/0CBFA1" width="16" /> Docker &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/git/0CBFA1" width="16" /> Git &nbsp;&nbsp; <img src="https://simpleicons.org" width="16" /> Linux
