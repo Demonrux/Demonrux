@@ -25,20 +25,26 @@ Interested in software development, data analysis and machine learning.
   <img height="180em" src="https://github-readme-stats-nu-livid-20.vercel.app/api/top-langs/?username=Demonrux&layout=compact&langs_count=10&theme=radical&count_private=truev=2" /> 
 </p>
 
-**Languages:**
-![C#](https://shields.io)
-![Python](https://shields.io)
-![C++](https://shields.io)
+<h2>Tech Stack</h2>
 
-**Backend:**
-![.NET](https://shields.io)
-![FastAPI](https://shields.io)
-![PostgreSQL](https://shields.io)
+<p>
+  <b>Languages:</b>
+  <img src="https://badgen.net" alt="C#" />
+  <img src="https://badgen.net" alt="Python" />
+  <img src="https://badgen.net" alt="C++" />
+</p>
 
-**Frontend:**
-![React](https://shields.io)
+<p>
+  <b>Backend:</b>
+  <img src="https://badgen.net" alt=".NET" />
+  <img src="https://badgen.net" alt="FastAPI" />
+  <img src="https://badgen.net" alt="PostgreSQL" />
+</p>
 
-**Tools:**
-![Docker](https://shields.io)
-![Git](https://shields.io)
-![Linux](https://shields.io)
+<p>
+  <b>Frontend & Tools:</b>
+  <img src="https://badgen.net" alt="React" />
+  <img src="https://badgen.net" alt="Docker" />
+  <img src="https://badgen.net" alt="Git" />
+  <img src="https://badgen.net" alt="Linux" />
+</p>
