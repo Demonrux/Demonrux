@@ -27,14 +27,20 @@ Interested in software development, data analysis and machine learning.
 
 ## Tech Stack
 
-**Languages**
-- <img src="https://simpleicons.org" width="16" /> C# &nbsp;&nbsp; <img src="https://simpleicons.org" width="16" /> Python &nbsp;&nbsp; <img src="https://simpleicons.org" width="16" /> C++
+**Languages:**
+![C#](https://shields.io)
+![Python](https://shields.io)
+![C++](https://shields.io)
 
-**Backend & Databases**
-- <img src="https://simpleicons.org" width="16" /> .NET &nbsp;&nbsp; <img src="https://simpleicons.org" width="16" /> FastAPI &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/postgresql/0CBFA1" width="16" /> PostgreSQL
+**Backend:**
+![.NET](https://shields.io)
+![FastAPI](https://shields.io)
+![PostgreSQL](https://shields.io)
 
-**Frontend**
-- <img src="https://simpleicons.org" width="16" /> React
+**Frontend:**
+![React](https://shields.io)
 
-**DevOps & Tools**
-- <img src="https://cdn.simpleicons.org/docker/0CBFA1" width="16" /> Docker &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/git/0CBFA1" width="16" /> Git &nbsp;&nbsp; <img src="https://simpleicons.org" width="16" /> Linux
+**Tools:**
+![Docker](https://shields.io)
+![Git](https://shields.io)
+![Linux](https://shields.io)
